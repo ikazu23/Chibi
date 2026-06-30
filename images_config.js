@@ -28,20 +28,21 @@
 
 const CHAR_IMAGES = [
 
-  // ── サンプル（実際のURLに差し替えてください） ──
-  // {
-  //   id: "mychar1",
-  //   name: "ちびこ",
-  //   images: {
-  //     egg:     "https://raw.githubusercontent.com/あなた/リポジトリ/main/images/chibi_egg.png",
-  //     baby:    "https://raw.githubusercontent.com/あなた/リポジトリ/main/images/chibi_baby.png",
-  //     base:    "https://raw.githubusercontent.com/あなた/リポジトリ/main/images/chibi_base.png",
-  //     special: "https://raw.githubusercontent.com/あなた/リポジトリ/main/images/chibi_special.png",
-  //     maid:    "https://raw.githubusercontent.com/あなた/リポジトリ/main/images/chibi_maid.png",
-  //     animal:  "https://raw.githubusercontent.com/あなた/リポジトリ/main/images/chibi_animal.png",
-  //   }
-  // },
 
+  
+  {
+     id: "mychar1",
+     name: "キム・ドクシャ",
+     images: {
+       egg:     "https://raw.githubusercontent.com/ikazu23/chibi/main/images/egg.png",
+       baby:    "https://raw.githubusercontent.com/ikazu23/chibi/main/images/KDJ.png",
+       base:    "https://raw.githubusercontent.com/ikazu23/chibi/main/images/KDJ.png",
+       special: "https://raw.githubusercontent.com/ikazu23/chibi/main/images/KDJ.png",
+       maid:    "https://raw.githubusercontent.com/ikazu23/chibi/main/images/KDJ.png",
+       animal:  "https://raw.githubusercontent.com/ikazu23/chibi/main/images/KDJ.png",
+     }
+   },
+ 
   // ── ここにキャラを追加 ──
 
 ];
